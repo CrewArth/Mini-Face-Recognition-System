@@ -1,5 +1,5 @@
 # Mini-Face-Recognition-System
-
+LANGUAGE : PYTHON
 Here are the Steps to Run this Program on your Computer.
 
 1. Unzip Faces File. It contains some Images for Training Model.
